@@ -3,7 +3,7 @@ About Everpix
 
 Everpix was started in 2011 with the goal of solving the Photo Mess, an increasingly real pain point in people's life photo collections, through ambitious engineering and user experience. Our startup was angel and VC funded with $2.3M raised over its lifetime.
 
-After 2 years of research and product development, and although having a very enthousiastic user base of early adopters combined with strong PR momentum, we didn't succeed in raising our Series A in the highly competitive VC funding market. Unable to continue operating our business, we had to announce our upcoming shutdown on November 5th, 2013.
+After 2 years of research and product development, and although having a very enthusiastic user base of early adopters combined with strong PR momentum, we didn't succeed in raising our Series A in the highly competitive VC funding market. Unable to continue operating our business, we had to announce our upcoming shutdown on November 5th, 2013.
 
 High-Level Metrics
 ------------------
@@ -31,9 +31,10 @@ Complete Dataset
 
 Building a startup is about taking on a challenge and working countless hours on solving it. Most startups do not make it but rarely do they reveal the story behind, leaving their users often frustrated. Because we wanted the Everpix community to understand some of the dynamics in the startup world and why we had to come to such a painful ending, we worked closely with a reporter from The Verge who chronicled our last couple weeks. The [resulting article](http://www.theverge.com/2013/11/5/5039216/everpix-life-and-death-inside-the-worlds-best-photo-startup) generated extensive coverage and also some healthy discussions around some of our high-level metrics and financials. There was a lot more internal data we wanted to share but it wasn't the right time or place.
 
-With the Everpix shutdown behind us, we had the chance to put together a significant dataset covering our business from fundraising to metrics. We hope this rare and uncensored inside look at the internals of a startup will benefit the startup community.
+With the Everpix shutdown behind us, we had the chance to put together a significant dataset of hundreds of files covering all aspects of our business. We hope this rare and uncensored inside look at the internals of a startup will benefit the startup community.
 
 Here are some example of common startup questions this dataset helps answering:
+
 * What are investment terms for consecutive convertible notes and an equity seed round? What does the end cap table look like? (see [here](Financials.md))
 * How does a Silicon Valley startup spend its raised money during 2 years? (see [here](Financials.md))
 * What does a VC pitch deck look like? (see [here](Presentation Slides/Everpix VC Pitch Deck.pdf))
@@ -46,12 +47,15 @@ Here are some example of common startup questions this dataset helps answering:
 * What frustrates people the most abour their photo collection? (see [here](Google Consumer Surveys/What frustrates you the most about your photo collection.pdf))
 * Do people actually edit their digital photos? (see [here](Google Consumer Surveys/Do you regularly edit your photos.pdf))
 * What would it take to acquire customers through online ads in such a business? (see [here](Online Paid Customer Acquisition Test Results.pdf))
+* How much price sensitive are consumers for such online services i.e. what's the price elasticity? (see [here](Investor Reports/2012-11.md))
 
 The dataset is organized as follow:
+
 * **[Anonymized VC Feedback.md](Anonymized VC Feedback.md):** Unedited feedback from VCs who passed on Everpix
 * **[External Metrics](External Metrics):** Raw metrics retrieved from external systems like Google Analytics or AWS billing
 * **[Financials.md](Financials.md):** High-level financials with fundraising and final P&L
 * **[Internal Metrics](Internal Metrics):** Raw and computed metrics from our service from photos imported to subscription sales
+* **[Investor Reports](Investor Reports):** Monthly investor reports detailing the progress, strategy and ups and downs of Everpix from the inside
 * **[Online Paid Customer Acquisition Test Results.pdf](Online Paid Customer Acquisition Test Results.pdf):** Results from early test ad campaigns for paid customer acquisition in Summer 2013
 * **[Presentation Slides](Presentation Slides):** The slides used to introduce Everpix to press and investors along with the latest version of our more extensive VC pitch deck
 * **[Product Videos](Product Videos):** Everpix presentation videos made during the product life
